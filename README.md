@@ -1,6 +1,6 @@
 # LNU Graduation Transcript Printer
 
-**辽宁大学毕业成绩单批量打印工具**
+**辽宁大学亚澳商学院毕业成绩单批量打印工具**
 
 A Tampermonkey userscript for batch printing graduation transcripts in Liaoning University's academic administration system.
 
