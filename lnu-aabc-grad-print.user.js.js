@@ -4,8 +4,8 @@
 // @version      1.3
 // @description  批量打印毕业成绩单，支持面板收起与自动更新
 // @match        http://aabcjw.lnu.edu.cn/admin2/*
-// @updateURL    https://develop.xinyi.wang/scripts/lnu-grad-print.user.js
-// @downloadURL  https://develop.xinyi.wang/scripts/lnu-grad-print.user.js
+// @updateURL    https://github.com/Cyril1992/LNU-AABC-Graduation-Transcript-Printer/blob/main/lnu-aabc-grad-print.user.js.js
+// @downloadURL  https://github.com/Cyril1992/LNU-AABC-Graduation-Transcript-Printer/blob/main/lnu-aabc-grad-print.user.js.js
 // @grant        none
 // @run-at       document-idle
 // ==/UserScript==
